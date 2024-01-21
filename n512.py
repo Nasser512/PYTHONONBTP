@@ -34,3 +34,6 @@ class AutoCADLetterDrawer:
 if __name__ == "__main__":
     drawer = AutoCADLetterDrawer()
     drawer.run()
+
+#n512
+#we can make the world easy by coding
